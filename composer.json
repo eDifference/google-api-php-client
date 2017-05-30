@@ -1,5 +1,5 @@
 {
-    "name": "eDifference/google-api-php-client",
+    "name": "edifference/google-api-php-client",
     "type": "library",
     "description": "Client library for Google APIs",
     "keywords": ["google"],
